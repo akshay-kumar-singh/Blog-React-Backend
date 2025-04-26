@@ -17,7 +17,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://crossraods.netlify.app/",
+    origin: "https://effulgent-biscotti-248c44.netlify.app",
     credentials: true,
   })
 );
